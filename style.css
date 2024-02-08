@@ -1,0 +1,47 @@
+.body {
+  width: 60%;
+  margin: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-left: 5%;
+  align-content: center;
+  background: #68afa2;
+}
+body {
+  background: #e9d2d2;
+  padding: 10px;
+}
+h1 {
+  margin: 10px;
+}
+
+ul {
+  display: flex;
+  margin: 0px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-block-start: 1px;
+  padding-inline-start: 0px;
+}
+li {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-items: center;
+}
+p {
+  padding: 10px;
+}
+button {
+  width: 15%;
+  height: 40px;
+  opacity: 0.8;
+}
+
+.input {
+  width: 80%;
+  height: 40px;
+  border: 1px solid #59eb91;
+  border-radius: 5px;
+}
