@@ -7,12 +7,14 @@
   align-content: center;
   background: #68afa2;
 }
+
 body {
   background: #e9d2d2;
   padding: 10px;
 }
 h1 {
   margin: 10px;
+  color: azure;
 }
 
 ul {
